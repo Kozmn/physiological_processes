@@ -6,6 +6,7 @@ ETA_SCENARIOS = {
     'Normal': 3.5e-3,
     'Anemia': 2.8e-3
 }
+
 MMHG_TO_PA = 133.322
 PIN = 100 * MMHG_TO_PA
 POUT = 10 * MMHG_TO_PA
